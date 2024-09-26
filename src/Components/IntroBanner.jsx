@@ -6,7 +6,7 @@ import banner_img from '../../public/Common Images/Banner.png'
 
 const IntroBanner = () => {
   return (
-    <div className='bg-gradient-to-b from-[#4182FF33] to-[#4182FF00]'>
+    <div className='bg-gradient-to-b from-[#4182FF33] via-[#4182FF00] to-[#4182FF00]'>
         <Container className=' pr-0 flex justify-between'>
         <div className="left pt-[200px]">
         <h1 className=' text-[52px] text-[#000] font-Pretendard font-bold leading-[138.462%] max-w-[737px]'>
